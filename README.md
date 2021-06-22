@@ -2,7 +2,7 @@
   <img alt="azure" src="https://monophy.com/media/xT5LMrXlTYVYhaQnCg/monophy.gif" width="350px" float="center"/>
 </p>
 
-<h2 align="center">🔒️  Secrets Management 🔒️</h2>
+<h2 align="center">🔒️ Secrets Management 🔒️</h2>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">  
-  ✨ My personal setup to management some secrets ✨
+  ✨ My personal setup for managing secrets using AWS KMS + Sops ✨
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 If you want contribute on this project, first you need to make a **git clone**:
 
 >
-> 1. git clone --depth 1 lpmatos/secrets-management -b master
+> 1. git clone --depth 1 <https://github.com/lpmatos/secrets-management.git> -b master
 >
 
 This will give you access to the code on your **local machine**.
