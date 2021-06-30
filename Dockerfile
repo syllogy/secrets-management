@@ -1,4 +1,4 @@
-FROM amazon/aws-cli:2.2.13
+FROM amazon/aws-cli:2.2.15
 
 RUN yum install wget-1.14 git-2.23.4 -y && \
     yum clean all
